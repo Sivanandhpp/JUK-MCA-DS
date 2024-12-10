@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 
 struct Node
 {
@@ -61,6 +62,7 @@ int main()
 {
     int choice, data;
     struct Node *stack = NULL;
+    clrscr();
     printf("\nStack operations using linked list. ");
     while (1)
     {

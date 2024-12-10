@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 
 // Node structure for the singly linked list
 struct Node {
@@ -81,7 +82,7 @@ void displayList(struct Node* head) {
 int main() {
     struct Node* head = NULL;
     int choice, data, key;
-
+    clrscr();
     while (1) {
         printf("\nSingly Linked List Operations:\n");
         printf("1. Insert an integer\n");
