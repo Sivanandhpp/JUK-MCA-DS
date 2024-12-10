@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "1 Singly Linked List.C": "cpp",
+        "01 Singly Linked List.C": "cpp",
+        "2 Doubly Linked List.C": "cpp",
+        "02 Doubly Linked List.C": "cpp",
+        "3 Stack ADT Array.C": "cpp",
+        "3 Stack ADT LinkedList.C": "cpp",
+        "03 Stack ADT Array.C": "cpp",
+        "03 Stack ADT LinkedList.C": "cpp",
+        "5 Queue ADT Array.C": "cpp",
+        "04 Infix to Postfix.C": "cpp",
+        "05 Queue ADT Array.C": "cpp",
+        "05 Queue ADT LinkedList.C": "cpp",
+        "6 Circular Queue.C": "cpp",
+        "06 Circular Queue.C": "cpp",
+        "7 Binary Tree Traversal.C": "cpp",
+        "07 Binary Tree Traversal.C": "cpp",
+        "8 Binary Search Tree.C": "cpp",
+        "08 Binary Search Tree.C": "cpp",
+        "9 AVL Tree Insertion and Rotation.C": "cpp",
+        "09 AVL Tree Insertion and Rotation.C": "cpp"
+    }
+}
