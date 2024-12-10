@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "01 Singly Linked List.C": "cpp",
+        "02 Doubly Linked List.C": "cpp",
+        "05 Queue ADT LinkedList.C": "cpp",
+        "06 Circular Queue.C": "cpp",
+        "07 Binary Tree Traversal.C": "cpp",
+        "03 Stack ADT Array.C": "cpp",
+        "04 Infix to Postfix.C": "cpp",
+        "05 Queue ADT Array.C": "cpp"
+    }
+}
